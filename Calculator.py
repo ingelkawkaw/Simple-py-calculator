@@ -10,7 +10,7 @@ CYAN = '\033[96m'
 WHITE = '\033[97m'
 RESET = '\033[0m'
 
-import math #for sqrt
+import math #for sqrt, ceil, floor
 while True: #program will loop until user exits 
 
     line = "---------------------------------------------------"
@@ -85,4 +85,5 @@ while True: #program will loop until user exits
 
     else:
         print()
-        print (RED + "Bro....please choose a number from 1-6" + RESET)
+        print (RED + "Bro....please choose a number from 1-7" + RESET)
+
