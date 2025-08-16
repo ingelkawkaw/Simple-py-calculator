@@ -4,4 +4,5 @@ A simple calculator made with python. It can perform the following:
 - Subtraction
 - Multiplication
 - Division
+- Modulo
 - Square root
