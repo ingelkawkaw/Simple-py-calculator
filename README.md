@@ -2,6 +2,6 @@
 A simple calculator made with python. It can perform the following:
 -  Addition
 - Subtraction
-- Multiplication]
+- Multiplication
 - Division
 - Square root
